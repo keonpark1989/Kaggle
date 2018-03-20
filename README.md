@@ -1,2 +1,2 @@
 # Kaggle
-Various competitions
+iPython Notebooks for Kaggle competition 
