@@ -1,3 +1,6 @@
+<Retrieved from http://blog.kaggle.com/2016/06/15/home-depot-product-search-relevance-winners-interview-2nd-place-thomas-sean-qingchen-nima/>
+
+
 What preprocessing and supervised learning methods did you use?
 
 
